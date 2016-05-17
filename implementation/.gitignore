@@ -1,0 +1,6 @@
+/bin/
+/src/.metadata/
+/src/*.java~
+/src/RemoteSystemsTempFiles
+/src/*.class
+/src/edu/truman/cs370/team6/addrSys/*.class
