@@ -1,2 +1,2 @@
-123 East Test Street Apartment A    St. Louis, Missouri 63501   
-444 West Something Avenue   New York, New York  12345
+123 East Test Street Apartment A	St Louis	Missouri	63501	
+444 West Something Avenue	New York	New York	12345	
